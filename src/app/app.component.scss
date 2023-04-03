@@ -1,0 +1,16 @@
+.parent{
+    display: grid;
+    grid-auto-flow: column;
+}
+ .cards{
+    border: solid 1px;
+    padding: 2px;
+    margin: 5px;
+    text-align: center;
+}
+.list {
+    border: solid 1px;
+    padding: 5px;
+    text-align: center;
+    column-gap: 5px;
+}
